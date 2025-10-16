@@ -74,14 +74,8 @@ Users can:
 
 ---
 
-## 📊 Notes for Research
 
-* 16 trained participants (6 male, 10 female) labeled the dataset.
-* Files with low or ambiguous votes were removed.
-* The final dataset includes **1428 validated audio samples**.
 
----
 
-## 🧑‍💻 Author
 
-Developed by **Alireza Rahmati**
+Developed by Alireza Rahmati
