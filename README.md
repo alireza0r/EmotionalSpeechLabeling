@@ -27,12 +27,21 @@ Users can:
 
 ## 🧩 Features
 
-* 🎧 Audio playback with play/stop controls  
-* 🗳️ Simple voting interface for strong and weak emotions  
-* 🧾 Automatic voter info recording  
-* 💾 Saves results as CSV or ZIP files  
-* 🌐 Supports remote use for distributed data labeling  
-* 🧮 Automatically names saved files by audio filename  
+🎧 Intuitive labeling interface — simple emotion labeling with Play, Stop, and automatic save control for each audio sample
+
+⚙️ Easy installation and use — no technical background required
+
+👥 Scalable participation — can be used by multiple users to expand the number of annotators
+
+🚫 Duplicate prevention — prevents users from labeling the same audio file multiple times
+
+🧩 Flexible emotion tagging — allows selecting a Weak label if no strong emotion is detected
+
+🚫 “None” option — available for both Strong and Weak labels when emotion is unclear or ambiguous
+
+💾 Structured and unified export — produces well-organized outputs (CSV, Excel, or ZIP) for easy aggregation and analysis
+
+🌐 Offline and secure — all processing and data storage occur locally on the user’s system
 
 ---
 
