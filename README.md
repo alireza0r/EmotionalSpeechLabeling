@@ -86,13 +86,13 @@ Finally, the software automatically generates a report summarizing the user’s 
 
 📁 Output Format
 * Column:	Description
-* audio_file_name:	Name of the processed audio file
-* strong_emotion:	Selected strong emotion
-* weak_emotion:	Selected weak emotion (optional)
-* voter_name:	Voter’s name
-* gender:	Voter’s gender
-* age:	Voter’s age
-* date:	Labeling date
+* FileName:	Name of the processed audio file
+* StrongEmotion:	Selected strong emotion
+* WeakEmotion:	Selected weak emotion (optional)
+* FirstName and LastName:	Voter’s name
+* Gender:	Voter’s gender
+* Age:	Voter’s age
+* Date:	Labeling date
 
 ---
 Developed by Alireza Rahmati
